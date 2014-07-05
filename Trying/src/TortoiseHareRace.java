@@ -5,7 +5,10 @@ public class TortoiseHareRace {
 		boolean[] flags = {true, false};
 		int totalStep = 10;
 		System.out.println("yaya");
+
 		System.out.println("wowo");
+
+		System.out.println("ohoh");
 	}
 
 }
